@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771C9E77-E8F7-42BE-9A5D-DDFE2D4E3335}|BlazorWithDotNet8.Client\\BlazorWithDotNet8.Client.csproj|c:\\users\\nirza\\source\\repos\\blazorwithdotnet8\\blazorwithdotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{771C9E77-E8F7-42BE-9A5D-DDFE2D4E3335}|BlazorWithDotNet8.Client\\BlazorWithDotNet8.Client.csproj|solutionrelative:blazorwithdotnet8.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "BlazorWithDotNet8.Client\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "BlazorWithDotNet8.Client\\Pages\\Auth.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-22T13:25:01.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

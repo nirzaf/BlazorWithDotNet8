@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\obj\\Debug\\net8.0\\compressed\\jjom3d5hil.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\nirza\\source\\repos\\BlazorWithDotNet8\\BlazorWithDotNet8.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorWithDotNet8.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorWithDotNet8.Client.props",
+      "PackagePath": "build\\BlazorWithDotNet8.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWithDotNet8.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWithDotNet8.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorWithDotNet8.Client.props",
+      "PackagePath": "buildTransitive\\BlazorWithDotNet8.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
